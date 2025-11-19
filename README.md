@@ -1,1 +1,1 @@
-Simulated the 3 body problem in Python to gain familiarity with vectors in programming as well as OOP. Can view output through the "3bodyproblem.gif". Did not code in collisions so simulation breaks down once the objects touch.
+Simulated the 3 body problem in Python to gain familiarity with vectors in programming as well as OOP. Can view output through the "Output.gif". Did not code in collisions so simulation breaks down once the objects touch.
