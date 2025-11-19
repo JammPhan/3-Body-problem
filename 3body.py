@@ -91,7 +91,7 @@ Sun = CelestialObject(10, Vector(0, 0, 0), Vector(0.04, 0, 0), 3)
 Earth = CelestialObject(10, Vector(5, 0, 0), Vector(0, 0.02, 0), 1)
 Moon = CelestialObject(10, Vector(10, 4, -1), Vector(0.03, 0, 0.02), 1)
 
-print(distance(Sun, Earth))
+# Real values of the Sun, Earth, Moon found on the Internet
 # Sun = CelestialObject(
 #     1.988420392 * (10**30), Vector(0, 0, 0), Vector(0, 0, 0), 696340 * (10**3)
 # )
